@@ -1,6 +1,6 @@
 .traffic-light {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: gray;
     margin: 10px auto;
     border-radius: 50%;
@@ -8,13 +8,13 @@
   }
   
   #red {
-    background-color: red;
+    background-color: gray;
   }
   
   #yellow {
-    background-color: yellow;
+    background-color: gray;
   }
   
   #green {
-    background-color: green;
+    background-color: gray;
   }
