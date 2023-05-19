@@ -1,0 +1,3 @@
+git push - to jest polecenie, które służy do przesyłania lokalnego repozytorium do zdalnego repozytorium
+
+git status - to jest polecenie, które wyświetla stan katalogu roboczego i obszaru przemieszczania
